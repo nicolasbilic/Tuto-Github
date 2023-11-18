@@ -1,0 +1,7 @@
+# Ignore les fichiers de configuration
+config.php
+# .env
+
+# Ignore les fichiers temporaires
+# temp/
+# cache/

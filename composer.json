@@ -1,0 +1,15 @@
+{
+    "name": "jobs/steve",
+    "autoload": {
+        "psr-4": {
+            "Jobs\\Steve\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolasbilic",
+            "email": "nicolasbilic9@gmail.com"
+        }
+    ],
+    "require": {}
+}
